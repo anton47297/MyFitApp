@@ -35,3 +35,4 @@
 - DAO
 - Entities
 
+<img width="257" height="538" alt="image" src="https://github.com/user-attachments/assets/3e07d833-6d93-46ea-9d7d-376837f42d0d" />

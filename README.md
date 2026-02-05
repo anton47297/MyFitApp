@@ -1,3 +1,4 @@
+
 Мобильное Android-приложение для планирования тренировок, отслеживания прогресса и получения рекомендаций по тренировочному процессу. Проект разработан в рамках дипломной работы и как pet-project для прокачки навыков Android-разработки.
 
 > 📱 UI полностью реализован на **Jetpack Compose**  
@@ -52,6 +53,7 @@
 ## 📱 Скриншоты приложения
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/3e07d833-6d93-46ea-9d7d-376837f42d0d" width="180"/>
   <img src="https://github.com/user-attachments/assets/7d3a3dc1-2f07-408e-923c-ae9c7aa8b41c" width="180"/>
   <img src="https://github.com/user-attachments/assets/525fb31d-2f80-46ee-b0d6-2c05a5c94e61" width="180"/>
   <img src="https://github.com/user-attachments/assets/cda478b5-3cae-4272-a955-9f8d5cd216d5" width="180"/>
